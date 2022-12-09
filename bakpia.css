@@ -1,0 +1,74 @@
+* {
+    background: #1339C5;
+}
+.head-div {
+    text-align:center;
+    padding:20%;
+    padding-top:2%;
+    padding-bottom:3%;
+}
+    
+.link-div{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+    
+.alink{
+    text-align: center;
+    margin-top: 1px;
+    padding: 20px 100px;
+    max-width: 400px;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid;
+    color:white;
+    text-decoration:none;
+}
+    
+.copyright{
+    text-align:center;
+}
+
+h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 64px;
+    color: #FFFFFF;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Prompt';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 7px;
+    color: rgba(205, 151, 11, 0.94);
+}
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+/* Testimoni */
+.testimoni-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 30% 100px 30%;
+}
+
+.img-content {
+    width: 208px;
+    height: 200px;
+    border: 2px solid #000000;
+}

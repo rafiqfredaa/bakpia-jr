@@ -1,0 +1,31 @@
+BAGIAN YANG AKAN DIBUAT
+- Header (BAKPIA JR)
+- Navbar
+	- Logo
+	- Section (Tentang, Produk, FAQ, Promo, Toko)
+- Main Konten
+	- Banner gambaran UMKM
+	- Penjelasan singkat UMKM
+	- Produk
+	- Testimoni
+- Footer
+	- Form untuk pemesanan
+		* Nama pembeli
+		* Nomor yang bisa dihubungi
+		* Produk yang dipesan
+		* Jumlah pesanan
+	- Kontak Kami
+		* Nama UMKM
+		* Kontak
+		* Email X
+		* Sosial Media (IG, )
+
+===========================================================
+Data yang diperlukan
+- Logo
+- Sejarah UMKM Bakpia JR/ penjelasan singkat
+- Lokasi Toko/Produksi
+- Data Produk (foto produk, foto pembuatan/produksi,
+	keunggulan produk, )
+- Data Testimoni (Foto, Teks)
+- Kontak Bakpia JR (nomor, email)
